@@ -13,7 +13,7 @@ TeleConsole desktop, has got everything you need for staying connected with your
 
 ## Telephony:
 <br/>
-Nationwide or office PBX calling with instant view of all company extensions status for the later.
+Nationwide or office PBX calling with instant view of all company extensions status for the latter.
 <br/>
 Use multiple business phone lines or assign different caller IDs to any existing phone numbers.
 <br/>
