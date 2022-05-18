@@ -38,6 +38,13 @@ Centralize fax handling by assigning multiple fax lines to a single user.
 Keep organized and track faxes either from their original messages or from a local folder.
 <br/>
 
+## Chat:
+<br/>
+premium collaboration service for teams and an organizations this product includes all premium chat features like replies, voice notes, reactions, Read receipts. File and document sharing.
+And much more.
+
+
+
 ## Additional Features:
 <br/>
 The TeleConsole's intuitive interface also provides user queue login control, do not disturb mode and customized PBX availability status, detailed call history logs with various follow-up options, support for Google an MS 365 contacts, and more.
