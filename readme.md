@@ -40,7 +40,7 @@ Keep organized and track faxes either from their original messages or from a loc
 
 ## Chat:
 <br/>
-Premium collaboration service for teams and an organizations this product includes all premium chat features like replies, reactions, Read receipts. File and document sharing.
+Premium collaboration service for teams and an organizations this product includes all premium chat features like replies, voice notes, reactions, Read receipts. File and document sharing.
 And much more.
 
 
